@@ -14,6 +14,7 @@ function Bar() {
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/Create">Novo Produto</Nav.Link>
+            <Nav.Link href="/About">Sobre</Nav.Link>
             {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="/About">Sobre</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
